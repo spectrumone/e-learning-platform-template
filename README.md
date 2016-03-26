@@ -14,3 +14,7 @@ Subject 1
 			Content 5 (file)
 			Content 6 (video)
 ```
+
+### Features:
+- Add different types of content for the course modules (i.e. image, text, file, video)
+- Allow re-ordering of course modules
